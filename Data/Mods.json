@@ -1,0 +1,808 @@
+[
+    {
+        "name": "Toxic",
+        "description": "Monster has augmented Poison powers",
+        "icon": "Base\\Toxic.png",
+        "rewards": [
+            "Reward-Generic.png",
+            "Reward-Gems.png"
+        ],
+        "tips": "",
+        "recipe": []
+    },
+    {
+        "name": "Chaosweaver",
+        "description": "Monster is imbued with Chaos Damage and Resistance",
+        "icon": "Base\\Chaosweaver.png",
+        "rewards": [
+            "Reward-Gems.png"
+        ],
+        "tips": "",
+        "recipe": []
+    },
+    {
+        "name": "Frostweaver",
+        "description": "Monster is imbued with Cold Damage and Resistance",
+        "icon": "Base\\Frostweaver.png",
+        "rewards": [
+            "Reward-Armour.png"
+        ],
+        "tips": "",
+        "recipe": []
+    },
+    {
+        "name": "Permafrost",
+        "description": "Monster has augmented Freeze and Chill powers",
+        "icon": "Base\\Permafrost.png",
+        "rewards": [
+            "Reward-Generic.png",
+            "Reward-Armour.png"
+        ],
+        "tips": "",
+        "recipe": []
+    },
+    {
+        "name": "Hasted",
+        "description": "Monster is faster",
+        "icon": "Base\\Hasted.png",
+        "rewards": [
+            "Reward-Generic.png"
+        ],
+        "tips": "",
+        "recipe": []
+    },
+    {
+        "name": "Deadeye",
+        "description": "Monster is Accurate and applies Marks",
+        "icon": "Base\\Deadeye.png",
+        "rewards": [
+            "Reward-Armour.png",
+            "Reward-Trinkets.png"
+        ],
+        "tips": "",
+        "recipe": []
+    },
+    {
+        "name": "Bombardier",
+        "description": "Monster has augmented Projectile powers and periodically unleashes a barrage of mortars",
+        "icon": "Base\\Bombardier.png",
+        "rewards": [
+            "Reward-Weapon.png",
+            "Reward-Armour.png"
+        ],
+        "tips": "",
+        "recipe": []
+    },
+    {
+        "name": "Flameweaver",
+        "description": "Monster is imbued with Fire Damage and Resistance",
+        "icon": "Base\\Flameweaver.png",
+        "rewards": [
+            "Reward-Weapon.png"
+        ],
+        "tips": "",
+        "recipe": []
+    },
+    {
+        "name": "Incendiary",
+        "description": "Monster has augmented Ignite powers",
+        "icon": "Base\\Incendiary.png",
+        "rewards": [
+            "Reward-Generic.png",
+            "Reward-Weapon.png"
+        ],
+        "tips": "",
+        "recipe": []
+    },
+    {
+        "name": "ArcaneBuffer",
+        "description": "Monster has augmented Energy Shield powers and releases a stunning nova when Energy Shield breaks",
+        "icon": "Base\\Arcane-Buffer.png",
+        "rewards": [
+            "Reward-Essences.png"
+        ],
+        "tips": "",
+        "recipe": []
+    },
+    {
+        "name": "Echoist",
+        "description": "Monster repeats skills additional times",
+        "icon": "Base\\Echoist.png",
+        "rewards": [
+            "Reward-Generic.png",
+            "Reward-Currency.png"
+        ],
+        "tips": "",
+        "recipe": []
+    },
+    {
+        "name": "Stormweaver",
+        "description": "Monster is imbued with Lightning Damage and Resistance",
+        "icon": "Base\\Stormweaver.png",
+        "rewards": [
+            "Reward-Trinkets.png"
+        ],
+        "tips": "",
+        "recipe": []
+    },
+    {
+        "name": "Dynamo",
+        "description": "Monster has augmented Shock powers",
+        "icon": "Base\\Dynamo.png",
+        "rewards": [
+            "Reward-Generic.png",
+            "Reward-Trinkets.png"
+        ],
+        "tips": "",
+        "recipe": []
+    },
+    {
+        "name": "Bonebreaker",
+        "description": "Monster has augmented Stun powers. Monster hits are slower and can’t be evaded",
+        "icon": "Base\\Bonebreaker.png",
+        "rewards": [
+            "Reward-Generic.png",
+            "Reward-Weapon.png"
+        ],
+        "tips": "",
+        "recipe": []
+    },
+    {
+        "name": "Bloodletter",
+        "description": "Monster has augmented Bleed powers. Monster Maims nearby enemies\\nItems dropped from the Monster and its Minions are Corrupted",
+        "icon": "Base\\Bloodletter.png",
+        "rewards": [
+            "Reward-Weapon.png",
+            "Reward-Trinkets.png"
+        ],
+        "tips": "",
+        "recipe": []
+    },
+    {
+        "name": "Steel-infused",
+        "description": "Monster is imbued with Physical Damage and Physical Damage Reduction",
+        "icon": "Base\\Steel-infused.png",
+        "rewards": [
+            "Reward-Weapon.png"
+        ],
+        "tips": "",
+        "recipe": []
+    },
+    {
+        "name": "Gargantuan",
+        "description": "Monster is massive, granting more Life, Area of Effect, and Damage",
+        "icon": "Base\\Gargantuan.png",
+        "rewards": [
+            "Reward-Currency.png"
+        ],
+        "tips": "",
+        "recipe": []
+    },
+    {
+        "name": "Berserker",
+        "description": "Monster Enrages as it loses life",
+        "icon": "Base\\Berserker.png",
+        "rewards": [
+            "Reward-Uniques.png"
+        ],
+        "tips": "",
+        "recipe": []
+    },
+    {
+        "name": "Sentinel",
+        "description": "Monster is imbued with Block and Spell Block. Monster Triggers Reckoning when hit",
+        "icon": "Base\\Sentinel.png",
+        "rewards": [
+            "Reward-Armour.png",
+            "Reward-Armour.png"
+        ],
+        "tips": "",
+        "recipe": []
+    },
+    {
+        "name": "Juggernaut",
+        "description": "Monster cannot be Slowed or Stunned. Monster gains Endurance Charges",
+        "icon": "Base\\Juggernaut.png",
+        "rewards": [
+            "Reward-Harbinger.png"
+        ],
+        "tips": "",
+        "recipe": []
+    },
+    {
+        "name": "Vampiric",
+        "description": "Monster has augmented Life Leech powers",
+        "icon": "Base\\Vampiric.png",
+        "rewards": [
+            "Reward-Fossils.png"
+        ],
+        "tips": "",
+        "recipe": []
+    },
+    {
+        "name": "Overcharged",
+        "description": "Monster grants Charges to itself and Allies over time",
+        "icon": "Base\\Overcharged.png",
+        "rewards": [
+            "Reward-Trinkets.png",
+            "Reward-Trinkets.png"
+        ],
+        "tips": "",
+        "recipe": []
+    },
+    {
+        "name": "Soul Conduit",
+        "description": "On death, Monster and nearby Allies are revived",
+        "icon": "Base\\Soul-Conduit.png",
+        "rewards": [
+            "Reward-Maps.png"
+        ],
+        "tips": "",
+        "recipe": []
+    },
+    {
+        "name": "Opulent",
+        "description": "Monster is fabulously wealthy",
+        "icon": "Base\\Opulent.png",
+        "rewards": [],
+        "tips": "",
+        "recipe": []
+    },
+    {
+        "name": "Malediction",
+        "description": "Monster has a weakening Aura",
+        "icon": "Base\\Malediction.png",
+        "rewards": [
+            "Reward-Divination.png"
+        ],
+        "tips": "",
+        "recipe": []
+    },
+    {
+        "name": "Consecrator",
+        "description": "Monster periodically creates Consecrated Ground, healing allies and making them immune to curses and ailments",
+        "icon": "Base\\Consecrator.png",
+        "rewards": [
+            "Reward-Fragments.png"
+        ],
+        "tips": "",
+        "recipe": []
+    },
+    {
+        "name": "Frenzied",
+        "description": "Monster and allies periodically Enrage",
+        "icon": "Base\\Frenzied.png",
+        "rewards": [
+            "Reward-Generic.png",
+            "Reward-Uniques.png"
+        ],
+        "tips": "",
+        "recipe": []
+    },
+    {
+        "name": "Heralding Minions",
+        "description": "Monster’s minions summon invulnerable Lightning Totems on death",
+        "icon": "Crafted\\Heralding-Minions.png",
+        "rewards": [
+            "Reward-Fragments.png",
+            "Reward-Fragments.png"
+        ],
+        "tips": "",
+        "recipe": [
+            "Dynamo",
+            "Arcane Buffer"
+        ]
+    },
+    {
+        "name": "Empowering Minions",
+        "description": "Monster’s minions are empowered. Minions empower the Monster with additional modifiers on death",
+        "icon": "Crafted\\Empowering-Minions.png",
+        "rewards": [
+            "Reward-Blight.png",
+            "Reward-Ritual.png"
+        ],
+        "tips": "",
+        "recipe": [
+            "Necromancer",
+            "Executioner",
+            "Gargantuan"
+        ]
+    },
+    {
+        "name": "Assassin",
+        "description": "Monster has augmented Critical powers and has Shroud Walker",
+        "icon": "Crafted\\Assassin.png",
+        "rewards": [
+            "Reward-Currency.png",
+            "Reward-Currency.png"
+        ],
+        "tips": "",
+        "recipe": [
+            "Deadeye",
+            "Vampiric"
+        ]
+    },
+    {
+        "name": "Trickster",
+        "description": "Monster has damage avoidance. Monster periodically Flees",
+        "icon": "Crafted\\Trickster.png",
+        "rewards": [
+            "Reward-Currency.png",
+            "Reward-Uniques.png",
+            "Reward-Divination.png"
+        ],
+        "tips": "",
+        "recipe": [
+            "Overcharged",
+            "Assassin",
+            "Echoist"
+        ]
+    },
+    {
+        "name": "Necromancer",
+        "description": "Monster can raise Undead. Minions are empowered and revive shortly after dying\\nRewards are rolled 2 additional times, choosing the rarest result",
+        "icon": "Crafted\\Necromancer.png",
+        "rewards": [
+            "Reward-Generic.png"
+        ],
+        "tips": "",
+        "recipe": [
+            "Bombardier",
+            "Overcharged"
+        ]
+    },
+    {
+        "name": "Rejuvenating",
+        "description": "Monster has Life Regeneration. Periodically releases a wave that heals nearby allies and prevents enemy Life and Energy Shield recovery\\nRewards are rolled 1 additional time, choosing the rarest result",
+        "icon": "Crafted\\Rejuvenating.png",
+        "rewards": [
+            "Reward-Currency.png"
+        ],
+        "tips": "",
+        "recipe": [
+            "Gargantuan",
+            "Vampiric"
+        ]
+    },
+    {
+        "name": "Executioner",
+        "description": "Monster gains Damage based on missing enemy Life. Monster has an aura that prevents enemies recovering Life and Energy Shield above 50%",
+        "icon": "Crafted\\Executioner.png",
+        "rewards": [
+            "Reward-Legion.png",
+            "Reward-Breach.png"
+        ],
+        "tips": "",
+        "recipe": [
+            "Frenzied",
+            "Berserker"
+        ]
+    },
+    {
+        "name": "Hexer",
+        "description": "Monster is Hexproof. Monster is followed by a Hexing Effigy that creates Hexing areas",
+        "icon": "Crafted\\Hexer.png",
+        "rewards": [
+            "Reward-Essences.png",
+            "Reward-Essences.png"
+        ],
+        "tips": "",
+        "recipe": [
+            "Chaosweaver",
+            "Echoist"
+        ]
+    },
+    {
+        "name": "Drought Bringer",
+        "description": "Monster disables Flask effects on hit. Monster has an aura that drains Flask charges and prevents gaining Flask charges",
+        "icon": "Crafted\\Drought-Bringer.png",
+        "rewards": [
+            "Reward-Labyrinth.png",
+            "Reward-Labyrinth.png"
+        ],
+        "tips": "",
+        "recipe": [
+            "Malediction",
+            "Deadeye"
+        ]
+    },
+    {
+        "name": "Entangler",
+        "description": "Monster creates Thorned Vines that slow and deal Chaos Damage over time.",
+        "icon": "Crafted\\Entangler.png",
+        "rewards": [
+            "Reward-Fossils.png",
+            "Reward-Fossils.png"
+        ],
+        "tips": "",
+        "recipe": [
+            "Toxic",
+            "Bloodletter"
+        ]
+    },
+    {
+        "name": "Temporal Bubble",
+        "description": "Monster is protected by a Temporal Bubble that severely slows those in it and cannot be damaged by those outside of it",
+        "icon": "Crafted\\Temporal-Bubble.png",
+        "rewards": [
+            "Reward-Heist.png",
+            "Reward-Expedition.png"
+        ],
+        "tips": "",
+        "recipe": [
+            "Juggernaut",
+            "Hexer",
+            "Arcane Buffer"
+        ]
+    },
+    {
+        "name": "Treant Horde",
+        "description": "Monster’s minions are replaced with powerful Treants. Some Damage taken from the monster is split between the Treants\\nMonster’s Minions drop a randomly-chosen Reward Type",
+        "icon": "Crafted\\Treant-Horde.png",
+        "rewards": [
+            "Reward-Generic.png"
+        ],
+        "tips": "",
+        "recipe": [
+            "Toxic",
+            "Sentinel",
+            "Steel-infused"
+        ]
+    },
+    {
+        "name": "Frost Strider",
+        "description": "Monster leaves Chilling Ground in its wake. Minions create Frost Bearers on death",
+        "icon": "Crafted\\Frost-Strider.png",
+        "rewards": [
+            "Reward-Armour.png",
+            "Reward-Armour.png",
+            "Reward-Armour.png"
+        ],
+        "tips": "",
+        "recipe": [
+            "Frostweaver",
+            "Hasted"
+        ]
+    },
+    {
+        "name": "Ice Prison",
+        "description": "Monster periodically entraps players in a cage of ice\\nRewards are rolled 1 additional time, choosing the rarest result",
+        "icon": "Crafted\\Ice-Prison.png",
+        "rewards": [
+            "Reward-Armour.png",
+            "Reward-Armour.png"
+        ],
+        "tips": "",
+        "recipe": [
+            "Permafrost",
+            "Sentinel"
+        ]
+    },
+    {
+        "name": "Soul Eater",
+        "description": "Monster empowers when nearby allies die. Periodically summons Phantasms",
+        "icon": "Crafted\\Soul-Eater.png",
+        "rewards": [
+            "Reward-Maps.png",
+            "Reward-Maps.png"
+        ],
+        "tips": "",
+        "recipe": [
+            "Soul Conduit",
+            "Necromancer",
+            "Gargantuan"
+        ]
+    },
+    {
+        "name": "Flame Strider",
+        "description": "Monster leaves Burning Ground in its wake. Minions create Flame Bearers on death",
+        "icon": "Crafted\\Flame-Strider.png",
+        "rewards": [
+            "Reward-Weapon.png",
+            "Reward-Weapon.png",
+            "Reward-Weapon.png"
+        ],
+        "tips": "",
+        "recipe": [
+            "Flameweaver",
+            "Hasted"
+        ]
+    },
+    {
+        "name": "Corpse Detonator",
+        "description": "Monster detonates nearby Corpses. Monster periodically creates Corpses",
+        "icon": "Crafted\\Corpse-Detonator.png",
+        "rewards": [
+            "Reward-Divination.png",
+            "Reward-Divination.png"
+        ],
+        "tips": "",
+        "recipe": [
+            "Necromancer",
+            "Incendiary"
+        ]
+    },
+    {
+        "name": "Evocationist",
+        "description": "Monster is imbued with Elemental Damage, Resistances and Ailments",
+        "icon": "Crafted\\Evocationist.png",
+        "rewards": [
+            "Reward-Generic.png",
+            "Reward-Weapon.png",
+            "Reward-Armour.png",
+            "Reward-Trinkets.png"
+        ],
+        "tips": "",
+        "recipe": [
+            "Flameweaver",
+            "Frostweaver",
+            "Stormweaver"
+        ]
+    },
+    {
+        "name": "Magma Barrier",
+        "description": "Monster is protected by a Magmatic shield that explodes when depleted. Monster periodically creates Volatile Flamebloods\\nRewards are rolled 1 additional time, choosing the rarest result",
+        "icon": "Crafted\\Magma-Barrier.png",
+        "rewards": [
+            "Reward-Weapon.png",
+            "Reward-Weapon.png"
+        ],
+        "tips": "",
+        "recipe": [
+            "Incendiary",
+            "Bonebreaker"
+        ]
+    },
+    {
+        "name": "Mirror Image",
+        "description": "Monster can create illusions of itself\\nRewards are rolled 2 additional times, choosing the rarest result",
+        "icon": "Crafted\\Mirror-Image.png",
+        "rewards": [
+            "Reward-Scarabs.png"
+        ],
+        "tips": "",
+        "recipe": [
+            "Echoist",
+            "Soul Conduit"
+        ]
+    },
+    {
+        "name": "Storm Strider",
+        "description": "Monster leaves Shocking Ground in its wake and spawns Lightning Mirages when hit. Minions create Storm Bearers on death",
+        "icon": "Crafted\\Storm-Strider.png",
+        "rewards": [
+            "Reward-Trinkets.png",
+            "Reward-Trinkets.png",
+            "Reward-Trinkets.png"
+        ],
+        "tips": "",
+        "recipe": [
+            "Stormweaver",
+            "Hasted"
+        ]
+    },
+    {
+        "name": "Mana Siphoner",
+        "description": "Monster is surrounded by a ring that deals Lightning Damage over time as well as draining Mana\\nRewards are rolled 1 additional time, choosing the rarest result",
+        "icon": "Crafted\\Mana-Siphoner.png",
+        "rewards": [
+            "Reward-Trinkets.png",
+            "Reward-Trinkets.png"
+        ],
+        "tips": "",
+        "recipe": [
+            "Consecrator",
+            "Dynamo"
+        ]
+    },
+    {
+        "name": "Corrupter",
+        "description": "Monster inflicts Corrupted Blood on Hit and when Hit. Minions create Corrupted Bubbles on death\\nItems dropped from the Monster and its Minions are Corrupted",
+        "icon": "Crafted\\Corrupter.png",
+        "rewards": [
+            "Reward-Abyss.png",
+            "Reward-Abyss.png"
+        ],
+        "tips": "",
+        "recipe": [
+            "Bloodletter",
+            "Chaosweaver"
+        ]
+    },
+    {
+        "name": "Invulnerable",
+        "description": "Monster and its Minions periodically become immune to all Damage. Minions cannot die while Monster is alive",
+        "icon": "Crafted\\Invulnerable.png",
+        "rewards": [
+            "Reward-Delirium.png",
+            "Reward-Metamorph.png"
+        ],
+        "tips": "",
+        "recipe": [
+            "Sentinel",
+            "Juggernaut",
+            "Consecrator"
+        ]
+    },
+    {
+        "name": "Crystal-skinned",
+        "description": "Monster triggers the creation of Crystals when hit. Crystals explode when the Monster dies",
+        "icon": "Crafted\\Crystal-skinned.png",
+        "rewards": [
+            "Reward-Harbinger.png",
+            "Reward-Harbinger.png"
+        ],
+        "tips": "",
+        "recipe": [
+            "Permafrost",
+            "Rejuvenating",
+            "Berserker"
+        ]
+    },
+    {
+        "name": "Empowered Elements",
+        "description": "Monster cycles between imbued damage of a particular type and immunity to all other damage types\\nRewards are rolled 1 additional time, choosing the rarest result",
+        "icon": "Crafted\\Empowered-Elements.png",
+        "rewards": [
+            "Reward-Uniques.png",
+            "Reward-Uniques.png"
+        ],
+        "tips": "",
+        "recipe": [
+            "Evocationist",
+            "Steel-infused",
+            "Chaosweaver"
+        ]
+    },
+    {
+        "name": "Effigy",
+        "description": "Monster creates an Effigy of the player. Damage dealt to the Effigy is also reflected to the bonded player\\nRewards are rolled 1 additional time, choosing the rarest result",
+        "icon": "Crafted\\Effigy.png",
+        "rewards": [
+            "Reward-Divination.png",
+            "Reward-Divination.png"
+        ],
+        "tips": "",
+        "recipe": [
+            "Hexer",
+            "Malediction",
+            "Corrupter"
+        ]
+    },
+    {
+        "name": "Lunaris-touched",
+        "description": "Monster uses the abilities of Lunaris\\nAll Reward Types have an additional reward",
+        "icon": "Crafted\\Lunaris-touched.png",
+        "rewards": [
+            "Reward-Uniques.png"
+        ],
+        "tips": "",
+        "recipe": [
+            "Invulnerable",
+            "Frost Strider",
+            "Empowering Minions"
+        ]
+    },
+    {
+        "name": "Solaris-touched",
+        "description": "Monster uses the abilities of Solaris\\nAll Reward Types have an additional reward",
+        "icon": "Crafted\\Solaris-touched.png",
+        "rewards": [
+            "Reward-Scarabs.png"
+        ],
+        "tips": "",
+        "recipe": [
+            "Invulnerable",
+            "Magma Barrier",
+            "Empowering Minions"
+        ]
+    },
+    {
+        "name": "Arakaali-touched",
+        "description": "Monster uses the abilities of Arakaali\\nAll Reward Types are Divination Cards",
+        "icon": "Crafted\\Arakaali-touched.png",
+        "rewards": [
+            "Reward-Divination.png"
+        ],
+        "tips": "",
+        "recipe": [
+            "Corpse Detonator",
+            "Entangler",
+            "Assassin"
+        ]
+    },
+    {
+        "name": "Brine King-touched",
+        "description": "Monster uses the abilities of the Brine King\\nRewards are rolled 6 additional times, choosing the rarest result",
+        "icon": "Crafted\\Brine-King-touched.png",
+        "rewards": [
+            "Reward-Armour.png",
+            "Reward-Armour.png",
+            "Reward-Armour.png"
+        ],
+        "tips": "",
+        "recipe": [
+            "Ice Prison",
+            "Storm Strider",
+            "Heralding Minions"
+        ]
+    },
+    {
+        "name": "Tukohama-touched",
+        "description": "Monster uses the abilities of Tukohama\\nRewards are rolled 4 additional times, choosing the rarest result",
+        "icon": "Crafted\\Tukohama-touched.png",
+        "rewards": [
+            "Reward-Weapon.png",
+            "Reward-Weapon.png",
+            "Reward-Fragments.png"
+        ],
+        "tips": "",
+        "recipe": [
+            "Bonebreaker",
+            "Executioner",
+            "Magma Barrier"
+        ]
+    },
+    {
+        "name": "Abberath-touched",
+        "description": "Monster uses the abilities of Abberath\\nRewards are rolled 4 additional times, choosing the rarest result",
+        "icon": "Crafted\\Abberath-touched.png",
+        "rewards": [
+            "Reward-Trinkets.png",
+            "Reward-Trinkets.png",
+            "Reward-Maps.png"
+        ],
+        "tips": "",
+        "recipe": [
+            "Flame Strider",
+            "Frenzied",
+            "Rejuvenating"
+        ]
+    },
+    {
+        "name": "Shakari-touched",
+        "description": "Monster uses the abilities of Shakari\\nAll Reward Types are Uniques",
+        "icon": "Crafted\\Shakari-touched.png",
+        "rewards": [
+            "Reward-Uniques.png"
+        ],
+        "tips": "",
+        "recipe": [
+            "Entangler",
+            "Soul Eater",
+            "Drought Bringer"
+        ]
+    },
+    {
+        "name": "Innocence-touched",
+        "description": "Monster uses the abilities of Innocence\\nAll Reward Types are Currency",
+        "icon": "Crafted\\Innocence-Touched.png",
+        "rewards": [
+            "Reward-Currency.png",
+            "Reward-Currency.png",
+            "Reward-Currency.png"
+        ],
+        "tips": "",
+        "recipe": [
+            "Lunaris-touched",
+            "Solaris-touched",
+            "Mirror Image",
+            "Mana Siphoner"
+        ]
+    },
+    {
+        "name": "Kitava-touched",
+        "description": "Monster uses the abilities of Kitava\\nRewards are doubled",
+        "icon": "Crafted\\Kitava-touched.png",
+        "rewards": [
+            "Reward-Generic.png"
+        ],
+        "tips": "",
+        "recipe": [
+            "Tukohama-touched",
+            "Abberath-touched",
+            "Corrupter",
+            "Corpse Detonator"
+        ]
+    }
+]
